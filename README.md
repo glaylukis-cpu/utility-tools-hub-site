@@ -1,34 +1,30 @@
-# Utility Tools Hub Site
+# Utility Tools Hub 公式サイト
 
-Static MVP for the official Utility Tools Hub download and product-information website.
+Utility Tools Hubのダウンロード・製品情報を掲載する静的サイトMVPです。
 
-## Structure
+## ファイル構成
 
-- `index.html` — product overview and primary download path
-- `download.html` — Windows installer guidance for v0.1.9
-- `pricing.html` — Free Preview and Pro Planned comparison
-- `roadmap.html` — released, in-progress, and planned work
-- `privacy.html` — current privacy approach
-- `terms.html` — general free-preview terms
-- `css/style.css` — shared responsive styles
-- `assets/screenshots/` — future product screenshots
-- `assets/logo/` — future production logo assets
+- `index.html` — 製品概要と主要なダウンロード導線
+- `download.html` — v0.1.9 Windows版のインストール案内
+- `pricing.html` — 無料プレビューとPro予定機能の比較
+- `roadmap.html` — リリース済み、開発中、今後の予定
+- `privacy.html` — 現在のプライバシー方針
+- `terms.html` — 無料プレビューの一般的な利用条件
+- `css/style.css` — 共通のレスポンシブスタイル
+- `assets/screenshots/` — 今後追加する製品スクリーンショット
+- `assets/logo/` — 今後追加する正式ロゴ
 
-## Preview locally
+## ローカル確認
 
-Open `index.html` directly in a browser. All page and stylesheet links are relative, so no build step is required.
+`index.html`をブラウザで開いて確認できます。リンクはすべて相対パスのため、ビルド作業は不要です。
 
-## Deploy
+## 公開方法
 
-The project contains only static files and can be published directly with GitHub Pages, Netlify, Vercel, or another static host. Configure the project root as the publish directory; no build command is needed.
+静的ファイルだけで構成しています。GitHub Pages、Netlify、Vercelなどへ、そのまま配置できます。ビルドコマンドは不要です。
 
-## Release links
+## 表記上の注意
 
-The download buttons intentionally lead to the official v0.1.9 GitHub Release page rather than guessing individual artifact URLs.
-
-## Content notes
-
-- Pro is described as planned and cannot be purchased.
-- Automatic updates are described as a foundation that is not yet active in production.
-- No analytics, advertising, external fonts, CDN assets, or payment code are included.
-- Privacy and terms text should be reviewed before broader commercial use or before accounts, payments, support forms, or analytics are introduced.
+- Proは予定機能で、現在は購入できません。
+- 自動更新は土台のみ導入済みで、本番運用は準備中です。
+- アクセス解析、広告、外部フォント、CDN、決済コードは含まれていません。
+- PrivacyとTermsは、課金・問い合わせ・解析などを導入する際に再確認してください。
