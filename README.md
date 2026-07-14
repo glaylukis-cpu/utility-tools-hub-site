@@ -11,7 +11,7 @@ Utility Tools Hubのダウンロード・製品情報を掲載する静的サイ
 - `privacy.html` — 現在のプライバシー方針
 - `terms.html` — 無料プレビューの一般的な利用条件
 - `css/style.css` — 共通のレスポンシブスタイル
-- `assets/screenshots/` — 今後追加する製品スクリーンショット
+- `assets/screenshots/` — サイト掲載用の製品スクリーンショット
 - `assets/logo/` — 今後追加する正式ロゴ
 
 ## ローカル確認
