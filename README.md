@@ -2,6 +2,8 @@
 
 Utility Tools Hubのダウンロード・製品情報を掲載する静的サイトMVPです。
 
+HTML Editorの利用例として、Free Previewの基本ブロックで作成した架空サービス「Studio Note」の[サンプルサイト一式](https://github.com/glaylukis-cpu/utility-tools-hub/tree/main/examples/html-editor/personal-service-site)を紹介しています。
+
 ## ファイル構成
 
 - `index.html` — 製品概要と主要なダウンロード導線
