@@ -5,7 +5,7 @@ Utility Tools Hubのダウンロード・製品情報を掲載する静的サイ
 ## ファイル構成
 
 - `index.html` — 製品概要と主要なダウンロード導線
-- `download.html` — v0.2.9 Windows版のインストール案内
+- `download.html` — v0.3.0 Windows版のインストール案内
 - `pricing.html` — 無料プレビューとPro予定機能の比較
 - `roadmap.html` — リリース済み、開発中、今後の予定
 - `privacy.html` — 現在のプライバシー方針
